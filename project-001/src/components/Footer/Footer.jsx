@@ -77,7 +77,7 @@ function Footer() {
               <FaTypo3 className="fa-typo3" />
             </Link>
           </div>
-          <small class="website-rights">TRVL © 2020</small>
+          <small class="website-rights">Carlos Ribeiro © 2020</small>
           <div class="social-icons">
             <Link
               class="social-icon-link facebook"
